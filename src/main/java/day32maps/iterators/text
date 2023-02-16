@@ -1,0 +1,32 @@
+ListIterator'da,
+
+1) hasNext()
+2) next()
+3) set()
+4) hasPrevious()
+5) previous()
+6) remove()
+
+özelliklerini öğrendik.
+
+
+ListIterator,
+
+1) Sağdan sola / soldan sağa hareket edebilir.
+2) ListIterator ile bir List'i düzenleyebilirsiniz.
+
+
+
+Iterator'da,
+
+1) hasNext()
+2) next()
+3) remove()
+
+özelliklerini gördük.
+
+
+Iterator,
+
+1) Sadece soldan sağa hareket edebilir.
+2) Update özellikleri yoktur.
